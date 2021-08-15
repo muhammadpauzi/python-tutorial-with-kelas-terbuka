@@ -1,0 +1,4 @@
+Baris Pertama
+Baris Kedua
+Baris Kedua
+Baris ini ditambah menggunakan mode append
